@@ -1,5 +1,5 @@
 {
-    "name": "farzinft/laravel-jalali-date",
+    "name": "farzinft/jalali-date",
     "description": "Laravel Jalali datetime component known as ZAMAN",
     "keywords": ["datetime", "laravel", "jalali", "shamsi", "hijri", "jDatetime", "Gregorian", "moment"],
     "type": "library",
